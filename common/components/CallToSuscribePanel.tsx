@@ -15,7 +15,7 @@ const CallToSuscribePanel = ({ width }: { width: any }) => {
         repetitions: 12,
         frequency: 1,
         frequency_type: 'months',
-        transaction_amount: 100, // Monto bajo para pruebas (ajústalo si es producción)
+        transaction_amount: 100, 
         currency_id: 'ARS',
         
       },
